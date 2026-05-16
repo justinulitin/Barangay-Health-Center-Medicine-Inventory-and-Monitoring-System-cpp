@@ -1,5 +1,8 @@
 # Barangay Health Center Medicine Inventory System
 
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Status](https://img.shields.io/badge/status-Completed-green)
+
 ## Overview
 
 The Barangay Health Center Medicine Inventory System is a simple console-based C++ program designed to help barangay health centers organize and monitor medicine records. The system allows users to add medicines, update stock levels, check low stock medicines, and generate inventory reports.
