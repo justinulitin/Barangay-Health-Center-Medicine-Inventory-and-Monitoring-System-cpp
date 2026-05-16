@@ -157,6 +157,17 @@ Possible future improvements for the system:
 
 ---
 
+# Learning Objectives
+
+This project helped improve my understanding of:
+- Structures in C++
+- Hashing using unordered_map
+- Input validation
+- Inventory management logic
+- Console-based systems
+
+---
+
 # Developer
 
 Created by a First Year Computer Science Student as a Data Structures and Algorithms project.
